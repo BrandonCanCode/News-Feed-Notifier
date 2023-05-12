@@ -1,0 +1,18 @@
+{
+    "recipients": ["person1@gmail.com", "person2@gmail.com"],
+    "sender": "sender@gmail.com",
+    "sender_pass": "password",
+    "rss_urls": [
+        "http://rss.cnn.com/rss/money_latest.rss", 
+        "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "http://feeds.marketwatch.com/marketwatch/topstories/",
+        "https://rss.politico.com/energy.xml",
+        "https://rss.politico.com/morningtech.xml"
+    ],
+    "key_words": [
+        "bank", "fed", "bond", "scare", "bull", "bear", "economy", "rate", "market",
+        "amd",  "NVDA", "nvidia", "lpl", "AAPL", "apple", "ATVI", "MSFT", "microsoft", "S&P",
+        " ai ", " (ai) ", "engineer", "environment", "solar", "climate", "green", "electric",
+         "game", "college", "marriage", "family", "house"
+    ]
+}
