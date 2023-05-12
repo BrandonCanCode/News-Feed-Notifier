@@ -19,6 +19,9 @@ Upon running the application, it will parse through the configured news RSS feed
 ## Key Words
 These filter found RSS feeds to help customize articles for what the user is interested in. Note that the application searches for subwords within the article's summary. Key words should be set in the config with all lower case lettering and without appending 's', (e.g 'house', not 'Houses').
 
+## Example Email
+<img width="349" alt="image" src="https://github.com/BrandonCanCode/News-Feed-Notifier/assets/69353222/55600055-e276-4d03-8be3-a600d5bae916">
+
 ## Contributing
 If you find a bug or would like to contribute to this project, please feel free to submit a pull request or open an issue. 
 
